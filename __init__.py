@@ -1,0 +1,3 @@
+"""
+OVGU Magdeburg Agent Package
+""" 
